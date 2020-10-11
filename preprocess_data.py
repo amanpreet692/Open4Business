@@ -238,9 +238,7 @@ def generate_stats(mode, suffix, data_list):
 if __name__ == '__main__':
     ds_name = sys.argv[1]
     print('Trying to write {} dataset to disk and generate word level stats from src path'.format(ds_name))
-    if ds_name == 'BillSum':
-        BillSum('/Users/amsingh/Datasets/BillSum*/billsum_v4_1/us_{}_data_final_OFFICIAL.jsonl').create_dataset()
-    elif ds_name == 'NarrativeArticles':
+    if ds_name == 'NarrativeArticles':
         NarrativeArticles('./data_prime/').create_dataset()
     elif ds_name == 'SemanticScholar':
         NarrativeArticles('./').create_dataset()
