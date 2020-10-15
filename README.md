@@ -7,7 +7,7 @@ The current version of the dataset can be downloaded from: [O4B Download](https:
 Steps to use the dataset:
 
  1. Download the zip from the URL given above and extract it.
- 2. The extracted directory will contain 6 files - 1 source and 1 target file for each of the splits, namely train, dev and test. For instance, for training set the file names will be train.source and train.target.
+ 2. The extracted directory will contain 7 files - 1 source and 1 target file for each of the splits, namely train, dev and test. For instance, for training set the file names will be train.source and train.target. The additional files called refs.bib consist of the bibtex reference for the articles used for creating O4B. 
  3. In both the source and target files, each line represents 1 record. 
  4. These files can be used for training new summarization models directly!
  
