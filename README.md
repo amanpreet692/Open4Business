@@ -2,7 +2,7 @@
 # Open4Business (O4B)
 A summarization dataset consisting of over 17k GOLD Open Access business journal articles.
 
-The current version of the dataset can be downloaded from: [O4B Download](https://drive.google.com/file/d/1VTuZ1krtDfgyhfIUVWmG9PdjJst8pc7S/view?usp=sharing).
+The current version of the dataset can be downloaded from: [O4B Download](https://drive.google.com/file/d/1w5mc6vxXrHIPRbRpoOxbUo8yTdVkW6l5/view?usp=sharing).
 
 Steps to use the dataset:
 
