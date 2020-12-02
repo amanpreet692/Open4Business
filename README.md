@@ -1,5 +1,7 @@
 
 # Open4Business (O4B)
+Code for the paper [Open4Business(O4B): An Open Access Dataset for Summarizing Business Documents](https://arxiv.org/abs/2011.07636) accepted in the Workshop for Dataset Curation and Security at NeurIPS-2020. 
+
 A summarization dataset consisting of over 17k GOLD Open Access business journal articles.
 
 The current version of the dataset can be downloaded from: [O4B Download](https://drive.google.com/file/d/1w5mc6vxXrHIPRbRpoOxbUo8yTdVkW6l5/view?usp=sharing).
