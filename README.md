@@ -19,3 +19,15 @@ For benchmarking experiments, following resources were used:
 Please refer to HuggingFace documentation for any issues with fine-tuning the models.
 
 For code re-use, refer [this](DatasetGeneration.md).
+
+If you use the dataset/code please cite it as follows:
+```
+@misc{singh2020open4businesso4b,
+      title={Open4Business(O4B): An Open Access Dataset for Summarizing Business Documents}, 
+      author={Amanpreet Singh and Niranjan Balasubramanian},
+      year={2020},
+      eprint={2011.07636},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
+}
+```
